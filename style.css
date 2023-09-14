@@ -106,7 +106,7 @@ header .navegacao-primaria li a:hover::after {
     border: 2px solid white;
     
 }
-a:hover {
+.section-div div a:hover {
     background-color: #002536;
 }
 
